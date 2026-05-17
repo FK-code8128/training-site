@@ -6,11 +6,11 @@
 
 ## デモURL
 
-[デモサイトを見る](https://kosaki-web.github.io/training-site/)
+[デモサイトを見る](https://fk-code8128.github.io/training-site/)
 
 ## リポジトリ
 
-[リポジトリを見る](https://github.com/kosaki-web/training-site.git)
+[リポジトリを見る](https://github.com/FK-code8128/training-site.git)
 
 ## ターゲット層
 
@@ -107,4 +107,4 @@
 - 実案件を想定した改善・運用フェーズの経験
 
 ---
-©2026 F.K. CODING & DESIGN (Project by Fuminobu Kosaki / 幸﨑 史展)
+©2026 F.K. CODING & DESIGN (Project by FK-code8128)
