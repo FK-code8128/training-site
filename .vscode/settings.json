@@ -10,5 +10,6 @@
         "pcbackimage",
         "topimage",
         "VUCA"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
